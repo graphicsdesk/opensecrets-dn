@@ -7,12 +7,188 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Top Columbia administrators contributed more than $4.1 million to candidates running for federal office in 2020 and 2024, of which nearly 88 percent went to candidates and committees affiliated with the Democratic Party, a Spectator analysis of <a href=\"https://www.fec.gov/data/receipts/individual-contributions/\">Federal Election Commission</a> data found."
+          },
+          {
+            "type": "text",
+            "value": "The findings follow last week’s election, in which the Republican party—increasingly focused on higher education in the United States—won control of the White House, flipped the U.S. Senate, and retained a majority in the House of Representatives."
+          },
+          {
+            "type": "text",
+            "value": "A University spokesperson declined to comment."
+          },
+          {
+            "type": "text",
+            "value": "As a registered nonprofit, the University is prohibited from “participating or intervening in any political campaign on behalf of or in opposition to any candidate for public office,” according to the Internal Revenue Code."
+          },
+          {
+            "type": "text",
+            "value": "“Even an insubstantial violation may lead to monetary fines and exposes the University to the possibility of revocation of its tax-exempt status,” a University policy <a href=\"https://universitypolicies.columbia.edu/content/partisan-political-campaign-activities-campus-or-campus-facilities\">webpage</a> reads."
+          },
+          {
+            "type": "text",
+            "value": "“Nonetheless, the University is dedicated to the free expression of ideas,” the webpage continues. “It encourages students, faculty, and other employees, in their individual capacities, to participate fully in the political process during campaigns by candidates for public office as long as they do not-either overtly or implicitly-involve the University.”"
+          },
+          {
+            "type": "text",
+            "value": "Spectator’s analysis focused exclusively on contributions that University affiliates made in a personal capacity. It spanned 30 affiliates who serve on the board of trustees, the executive committee, the president’s cabinet, and the council of deans."
+          },
+          {
+            "type": "text",
+            "value": "Using the FEC’s campaign finance search tool, Spectator searched for all <a href=\"https://www.fec.gov/data/browse-data/\">individual contributions</a> made to federal candidates and political committees, compiled from quarterly reports. Its most recent covered contributions up to Sept. 30, and the <a href=\"https://www.fec.gov/help-candidates-and-committees/filing-reports/quarterly-reports/\">next</a> will span the months of October, November, and December, including last-minute donations made before Election Day."
+          },
+          {
+            "type": "text",
+            "value": "There are 25 affiliates who also serve on the board of trustees, executive committee, president’s cabinet, and council of deans without any public record of individual contributions to federal campaigns in 2020 and 2024, according to the FEC. However, this does not mean that they have not given any money in either cycle. Donors can still make political contributions to state and local campaigns or use other campaign finance vehicles like 501(c)(4) organizations and remain untraceable through the FEC’s public search tool."
+          },
+          {
+            "type": "text",
+            "value": "<b>The board of trustees</b>"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "trusteedonations.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The board of trustees, composed of 20 members, including interim University President Katrina Armstrong, accounted for nearly all of the political donations from Columbia’s top leadership over the past two presidential cycles, according to the FEC database."
+          },
+          {
+            "type": "text",
+            "value": "The trustees, who serve on the University’s top fiduciary body, made 358 separate contributions. All but 66 went to Democratic candidates and committees."
+          },
+          {
+            "type": "text",
+            "value": "At $1.234 million, the trustees’ donations during the 2024 presidential campaign made up more than a quarter of top administrators’ total political contributions across all federal campaigns in the last two election cycles. In both, no trustee’s donation directly went to a Republican presidential candidate, including President-elect Donald Trump."
+          },
+          {
+            "type": "text",
+            "value": "Of the trustees’ donations to 2024 presidential candidates, Adam Pritzker, CC ’07, led the way, giving $970,600 to Vice President Kamala Harris, which accounted for almost 80 percent of the board’s total contributions to presidential candidates in 2024."
+          },
+          {
+            "type": "text",
+            "value": "Pritzker is related to Illinois Gov. J. B. Pritzker, whom pundits briefly floated as a potential Democratic presidential nominee in August after President Joe Biden dropped out of the race."
+          },
+          {
+            "type": "text",
+            "value": "Spanning all donations in 2020 and 2024, Vice Chair Mark Gallogly, Business ’86, was the most prolific political contributor among the trustees, giving more than $2.5 million to federal Democratic candidates and committees."
+          },
+          {
+            "type": "text",
+            "value": "Fellow Vice Chair Victor Mendelson, CC ’89, was one of only two conservative donors on the board. He gave just under $38,000 almost entirely to Republican causes—17.5 percent of which went to Rep. Elise Stefanik (R-N.Y.), a member of the House Committee on Education and the Workforce, in February, just a week after the committee sent its <a href=\"https://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=410117\">first document request</a> to Columbia."
+          },
+          {
+            "type": "text",
+            "value": "Since then, the committee has applied intense scrutiny to the University, including a three-hour-long <a href=\"https://www.columbiaspectator.com/news/2024/04/21/columbia-in-crisis-shafik-testifies-before-congress-about-antisemitism-at-columbia/\">hearing</a> in April and a <a href=\"https://www.columbiaspectator.com/news/2024/08/21/house-committee-subpoenas-columbia-for-documents-in-antisemitism-investigation/\">subpoena</a> for tens of thousands of private communications of senior University leaders and disciplinary proceedings."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2024/10/31/house-committee-publishes-internal-administrative-communications-disciplinary-information-in-new-antisemitism-report/\"><i>House committee publishes internal administrative communications, disciplinary information in new antisemitism report</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "Stefanik rose to national prominence last December after she grilled the then-presidents of Harvard University and the University of Pennsylvania about on-campus antisemitism. Both presidents later resigned after their controversial testimonies."
+          },
+          {
+            "type": "text",
+            "value": "Stefanik was also unrelenting during Columbia’s April 17 hearing, and on Sunday, Trump named her as his nominee for the United States ambassador to the United Nations."
+          },
+          {
+            "type": "text",
+            "value": "On Oct. 31, the committee released a <a href=\"https://edworkforce.house.gov/uploadedfiles/10.30.24_committee_on_education_and_the_workforce_republican_staff_report_-_antisemitism_on_college_campuses_exposed.pdf\">325-page report</a> about on-campus antisemitism that disclosed a Jan. 4 text exchange between then-University President Minouche Shafik and Claire Shipman, CC ’86, SIPA ’94, and David Greenwald, Law ’83, co-chairs of the board of trustees."
+          },
+          {
+            "type": "text",
+            "value": "In it, Shafik wrote that Senate Majority Leader Chuck Schumer told her that Columbia’s “political problems are really only among Republicans.”"
+          },
+          {
+            "type": "text",
+            "value": "Greenwald responded, “If we are keeping our head down, maybe we shouldn’t meet with Republicans. That being said we are likely in their sights already. We should have a plan in case the attention focuses on us.”"
+          },
+          {
+            "type": "text",
+            "value": "A few days later, Greenwald texted Jonathan Lavine, CC ’88, board of trustees chair emeritus, about the committee’s investigation. Lavine wrote, “Let’s hope the Dems win the house back,” to which Greenwald replied, “Absolutely.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>The executive committee and the president’s cabinet</b>"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "execdonations.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Members of the executive committee and the president’s cabinet contributed just above $23,000 to federal campaigns in 2020 and 2024, according to the FEC. While the total is significantly less than the trustees’ contributions, it represents the political donations of the top administrators responsible for the day-to-day work of the University."
+          },
+          {
+            "type": "text",
+            "value": "Armstrong <a href=\"https://www.columbiaspectator.com/news/2024/08/30/armstrong-establishes-six-committees-announces-senior-personnel-changes/\">created</a> the committee and the cabinet in August to “enhance collaboration” among the University’s top leadership."
+          },
+          {
+            "type": "text",
+            "value": "Armstrong herself did not make any contributions to candidates running for federal office in 2024. However, she gave $2,250 to Democrats in 2020 while she was a faculty member at Harvard University."
+          },
+          {
+            "type": "text",
+            "value": "Daniel Driscoll, vice president of human resources, was the only member of either the committee or the cabinet to contribute to Republican candidates or committees, giving $300 to former Rep. Lee Zeldin (R-N.Y.) in 2020. An incumbent, Zeldin won his race and soon thereafter launched an unsuccessful bid for New York Governor, losing to Gov. Kathy Hochul in the state’s <a href=\"https://www.politico.com/news/2022/11/08/kathy-hochul-lee-zeldin-new-york-governor-race-results-2022-00065468\">closest gubernatorial campaign</a> in two decades."
+          },
+          {
+            "type": "text",
+            "value": "Trump announced Zeldin as his pick to lead the Environmental Protection Agency on Monday."
+          },
+          {
+            "type": "text",
+            "value": "<b>The council of deans</b>"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "deanscouncildonations.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Members of the council of deans gave $12,655 in individual contributions to federal candidates and committees in 2024 and 2020, according to the FEC. Each of their donations went to Democrats."
+          },
+          {
+            "type": "text",
+            "value": "Armstrong announced the council’s creation in August. It includes the top academic officials from the University’s 17 schools. It does not include the deans of its affiliate institutions—Barnard College, Teachers College, Jewish Theological Seminary, and the Union Theological Seminary."
+          },
+          {
+            "type": "text",
+            "value": "The number of donations that council members made to the presidential campaign dropped by almost 69 percent from 2020 to 2024, going entirely to the respective Democratic candidate."
+          },
+          {
+            "type": "text",
+            "value": "<i>Noah Bernstein is a University News deputy editor. He can be contacted at </i><a href=\"mailto:noah.bernstein@columbiadailyspectator.com\"><i>noah.bernstein@columbiaspectator.com.</i></a> <i>Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Diya Nair is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:diya.nair@columbiaspectator.com\"><i>diya.nair@columbiaspectator.com.</i></a> <i>Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@</i></a><a href=\"https://x.com/diyana1r?s=21&t=YKbrfnJYTVoHCHmurLtVtA\"><i>diyana1r</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Top Columbia administrators donated overwhelmingly to Democrats in 2024 and 2020",
+        "date": "November 17, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/noah-bernstein/\">Noah Bernstein</a><br>Graphics by <a href=\"https://www.columbiaspectator.com/contributors/diya-nair/\">Diya Nair</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/LA5ZZLD4KRDVDJQVDEGB6F6NKM.jpg",
+        "cover_caption": "Stella Ragas/ Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1reAbyisEN2Xd3aXPud5zdz7P4EgbWx-cExvg2R8LFGU/edit?usp=sharing"
       }
     }
   }
